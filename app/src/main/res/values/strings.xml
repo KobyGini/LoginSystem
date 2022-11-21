@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginSystem</string>
+
+    <!--  Errors  -->
+    <string name="network_error">Please check your connection</string>
+    <string name="general_error">Something went wrong</string>
+
+    <string name="error_message">"\uD83D\uDE28 Wooops %s"</string>
+</resources>
